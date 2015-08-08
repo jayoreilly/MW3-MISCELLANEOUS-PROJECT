@@ -1,0 +1,17 @@
+C:\Users\jay\Desktop\everything\MW3 Mod Menu\MW3 Mod Menu\bin\Debug\Final.exe.config
+C:\Users\jay\Desktop\everything\MW3 Mod Menu\MW3 Mod Menu\bin\Debug\Final.exe
+C:\Users\jay\Desktop\everything\MW3 Mod Menu\MW3 Mod Menu\bin\Debug\Final.pdb
+C:\Users\jay\Desktop\everything\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Kiwi_modz.Form1.resources
+C:\Users\jay\Desktop\everything\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Kiwi_modz.Properties.Resources.resources
+C:\Users\jay\Desktop\everything\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\jay\Desktop\everything\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Final.exe
+C:\Users\jay\Desktop\everything\MW3 Mod Menu\MW3 Mod Menu\obj\Debug\Final.pdb
+C:\Users\jay\Desktop\everything\Final project\Final project\bin\Debug\Final.exe.config
+C:\Users\jay\Desktop\everything\Final project\Final project\obj\Debug\Final.exe
+C:\Users\jay\Desktop\everything\Final project\Final project\obj\Debug\Final.pdb
+C:\Users\jay\Desktop\everything\Final project\Final project\bin\Debug\Final.exe
+C:\Users\jay\Desktop\everything\Final project\Final project\bin\Debug\Final.pdb
+C:\Users\jay\Desktop\everything\Final project\Final project\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\jay\Desktop\everything\Final project\Final project\obj\Debug\Kiwi_modz.Form1.resources
+C:\Users\jay\Desktop\everything\Final project\Final project\obj\Debug\Kiwi_modz.Properties.Resources.resources
+C:\Users\jay\Desktop\everything\Final project\Final project\obj\Debug\Final.csproj.GenerateResource.Cache
